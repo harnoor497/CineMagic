@@ -18,8 +18,8 @@ Discover and explore movies effortlessly with Cinemagic. Your go-to movie compan
    cd Cinemagic
 
 3. **Run the Server:**
-   cd APIserver
-   node src/app
+   >> cd APIserver
+   >> node src/app
 
 4. **Open index.html in your web browser.**
 
